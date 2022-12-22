@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/a2zlearning%20/static/css/main.b306d1c6.css",
+    "main.js": "/a2zlearning%20/static/js/main.bd2abd8e.js",
+    "static/js/787.223438d3.chunk.js": "/a2zlearning%20/static/js/787.223438d3.chunk.js",
+    "static/media/iot.png": "/a2zlearning%20/static/media/iot.28e1fae4bf42d6c537be.png",
+    "static/media/python.png": "/a2zlearning%20/static/media/python.6968b8f60b6a60c4b47e.png",
+    "static/media/embd.png": "/a2zlearning%20/static/media/embd.cc6f3245653d9749d903.png",
+    "static/media/a2b.jpg": "/a2zlearning%20/static/media/a2b.a971d930fb50be8caf2f.jpg",
+    "index.html": "/a2zlearning%20/index.html",
+    "main.b306d1c6.css.map": "/a2zlearning%20/static/css/main.b306d1c6.css.map",
+    "main.bd2abd8e.js.map": "/a2zlearning%20/static/js/main.bd2abd8e.js.map",
+    "787.223438d3.chunk.js.map": "/a2zlearning%20/static/js/787.223438d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b306d1c6.css",
+    "static/js/main.bd2abd8e.js"
+  ]
+}
